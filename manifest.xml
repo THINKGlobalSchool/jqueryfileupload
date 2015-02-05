@@ -3,17 +3,17 @@
 	<name>jQuery File Upload</name>
 	<id>jqueryfileupload</id>
 	<author>Jeff Tilson</author>
-	<version>1.9</version>
+	<version>1.10</version>
 	<category>enhancement</category>
 	<category>tgs</category>
 	<blurb>jQuery File Upload</blurb>
 	<description>jQuery File Upload for Elgg</description>
 	<website>http://www.thinkglobalschool.org/</website>
-	<copyright>THINK Global School 2010 - 2014</copyright>
+	<copyright>THINK Global School 2010 - 2015</copyright>
 	<license>GNU Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
-		<version>1.9</version>
+		<version>1.10</version>
 	</requires>
 	<activate_on_install>true</activate_on_install>
 </plugin_manifest>
