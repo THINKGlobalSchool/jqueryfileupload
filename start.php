@@ -14,8 +14,8 @@ elgg_register_event_handler('init', 'system', 'jfu_init');
 
 function jfu_init() {
 	// Register cachable views
+	elgg_register_external_view('js/jquery.ui.widget', true);
 	elgg_register_external_view('js/jquery.iframe-transport', true);
 	elgg_register_external_view('js/jquery.fileupload', true);
-
 	return TRUE;
 }
